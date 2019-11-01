@@ -3,6 +3,7 @@
 - template : [IEEE paper template](https://www.ieee.org/conferences/publishing/templates.html)
 - language : `latex`
 - editor : `overleaf` [link](https://www.overleaf.com/project/5d847a744791900001944401)
+- [prototype](https://xd.adobe.com/view/e5818e01-8184-4624-6c8b-fdb994792645-93b0/)
 
 ## 0. schedule
 
