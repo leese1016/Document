@@ -5,7 +5,7 @@
 # Progress
 - NUGU Mediger Play Action Tree
 ![actionTree](./image/actionTree.jpg)
-- NUGU Mediger Test mode in Youtube [video](https://youtu.be/kT_0jlII8BA)
+- NUGU Mediger Test mode in Youtube [link](https://youtu.be/kT_0jlII8BA)
 
 
 # Document
