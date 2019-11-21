@@ -3,7 +3,9 @@
 
 
 # Progress
+- NUGU Mediger Play Action Tree
 ![actionTree](./image/actionTree.jpg)
+- Mediger Youtube [video](https://youtu.be/kT_0jlII8BA)
 
 
 # Document
