@@ -2,8 +2,8 @@
 - [link](https://xd.adobe.com/view/e5818e01-8184-4624-6c8b-fdb994792645-93b0/)
 
 
-#Progress
-- ![actionTree](./image/actionTree.jpg)
+# Progress
+![actionTree](./image/actionTree.jpg)
 
 
 # Document
